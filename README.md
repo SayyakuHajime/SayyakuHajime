@@ -13,8 +13,4 @@
 
 ###
 
-<div align="center">
-  <img height="100" src="https://cyanvoxel.github.io/static/media/profile.2800247ea466f9e125bb.png"  />
-</div>
 
-###
