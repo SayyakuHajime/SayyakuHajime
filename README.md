@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="left">Hey There, I'm Hajime </h1>
 
-<!--
-**SayyakuHajime/SayyakuHajime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I do a little bit of programming, still learning basic stuff.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,java" height="40"/>
+</div>
+
+###
+
+<div align="center">
+  <img height="100" src="https://cyanvoxel.github.io/static/media/profile.2800247ea466f9e125bb.png"  />
+</div>
+
+###
