@@ -1,5 +1,5 @@
 <img align="left" alt="profile_picture" width="210" src="https://github.com/user-attachments/assets/57103a2c-32f0-4077-980a-22b4446740b0" style="margin-right: 20px; margin-bottom: 10px;">
-<div align="left">
+<div align="right">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2000&pause=200&color=e4e2e2&multiline=true&repeat=false&width=700&height=120&lines=%E3%83%9F%E2%98%86+Hey+There%2C;I'm+Sayyaku%2FHajime" alt="Typing SVG" />
   </a>
