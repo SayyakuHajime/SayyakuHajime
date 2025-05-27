@@ -10,7 +10,7 @@ I do a little bit of programming and I'm still learning the basics. Currently fo
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,obsidian,overleaf,azure" alt="My Tools"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,obsidian,overleaf,azure,docker" alt="My Tools"/>
   </a>
 </div>
 
