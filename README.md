@@ -1,3 +1,6 @@
+
+![howl_readme_header](https://github.com/user-attachments/assets/c117b2db-1d7b-48a8-921c-0631781c453f)
+
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2000&pause=200&color=e4e2e2&multiline=true&repeat=false&width=700&height=120&lines=%E3%83%9F%E2%98%86+Hey+There%2C;I'm+Sayyaku%2FHajime" alt="Typing SVG" />
