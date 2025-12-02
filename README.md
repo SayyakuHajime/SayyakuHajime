@@ -25,10 +25,20 @@ I do a little bit of programming and I'm still learning the basics. Currently fo
   I'm constantly learning and experimenting. Here's a glimpse of what I'm up to:
 </p>
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayyakuHajime&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" alt="SayyakuHajime's GitHub stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <img width="353" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayyakuHajime&hide=tex,html,css&theme=algolia&layout=compact&hide_border=true" alt="Top Langs"/>
+
+![](https://github-readme-stats.vercel.app/api?username=SayyakuHajime&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SayyakuHajime&theme=catppuccin-mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayyakuHajime&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
+
+### Recent Activity & Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayyakuHajime&theme=mocha&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
 
 
 ## 🛠️ Languages & Tools
@@ -40,5 +50,7 @@ I do a little bit of programming and I'm still learning the basics. Currently fo
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py" alt="Programming Languages" />
   </a>
 </p>
+
+
 
 ---
