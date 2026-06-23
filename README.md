@@ -13,14 +13,14 @@ I do a little bit of programming and I'm still learning the basics. Currently fo
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,obsidian,overleaf,azure,docker" alt="My Tools"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,obsidian,latex,git,linux,jupyter,azure,docker" alt="My Tools"/>
   </a>
 </div>
 
 <br clear="left"/>
 
 
-## 🚀 My Current Journey
+## My Current Journey
 <p align="center">
   I'm constantly learning and experimenting. Here's a glimpse of what I'm up to:
 </p>
@@ -41,13 +41,13 @@ I do a little bit of programming and I'm still learning the basics. Currently fo
 
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p align="center">
   Here are some of the languages and tools I've been working with:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,go,scala,html,css" alt="Programming Languages" />
   </a>
 </p>
 
